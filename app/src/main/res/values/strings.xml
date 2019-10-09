@@ -1,0 +1,13 @@
+<resources>
+<!--    String literals used in activity_main.xml-->
+    <string name="app_name">Grade Calculator</string>
+    <string name="Desired_grade">Desired grade:</string>
+    <string name="Desired_grade_hint">character letter grade here</string>
+    <string name="Min_avg">Min average required:</string>
+    <string name="Min_avg_hint">numeric average here</string>
+    <string name="Curr_avg">Current average required:</string>
+    <string name="Curr_avg_hint">numeric average here</string>
+    <string name="Fin_perc">Final percentage weight:</string>
+    <string name="Fin_perc_hint">final % weight here</string>
+    <string name="Calc_button">Calculate!</string>
+</resources>

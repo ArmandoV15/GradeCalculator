@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Changed colors to match Gonzaga University's official RGB values-->
+    <color name="colorPrimary">#06274F</color>
+    <color name="colorPrimaryDark">#5E8AB4</color>
+    <color name="colorAccent">#A1D6CA</color>
+</resources>
